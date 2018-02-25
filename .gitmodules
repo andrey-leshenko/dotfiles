@@ -1,0 +1,6 @@
+[submodule "vim/.vim/bundle/molokai"]
+	path = vim/.vim/bundle/molokai
+	url = https://github.com/tomasr/molokai
+[submodule "vim/.vim/bundle/xoria256.vim"]
+	path = vim/.vim/bundle/xoria256.vim
+	url = https://github.com/vim-scripts/xoria256.vim
