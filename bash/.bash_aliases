@@ -1,3 +1,7 @@
+# Unlimited command history
+HISTSIZE=-1
+HISTFILESIZE=-1
+
 alias ipa='ip -c -br a'
 alias ipl='ip -c -br l'
 
